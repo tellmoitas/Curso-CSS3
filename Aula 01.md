@@ -19,20 +19,26 @@ quais elementos de um grupo de elementos serão formatados.
 
 A sintaxe do CSS é simples:
 
+```css
 seletor {
-propriedade: valor;
+ propriedade: valor;
 }
+```
 
 Seletores encadeados e seletores agrupados são a base do CSS.
 
 SELETORES ENCADEADOS
 
+```css
 div p strong a {
  color: red;
 }
+```
 
 SELETORES AGRUPADOS
 
+```css
 div p strong a {
 color: red;
 }
+```
